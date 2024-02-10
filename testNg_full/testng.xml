@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<parameter name="solomon1" value="jaffer1"></parameter>
+	<parameter name="solomon2" value="jaffer2"></parameter>
+	<parameter name="solomon3" value="jaffer3"></parameter>
+	<parameter name="solomon4" value="jaffer4"></parameter>
+	<parameter name="solomon5" value="jaffer5"></parameter>
+	<parameter name="solomons" value="jaffers"></parameter>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testNg_full_pack.NewTest2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-10T17:44:28 IST" name="Suite" finished-at="2024-02-10T17:44:29 IST" duration-ms="155">
+    <groups>
+    </groups>
+    <test started-at="2024-02-10T17:44:28 IST" name="Test" finished-at="2024-02-10T17:44:29 IST" duration-ms="155">
+      <class name="testNg_full_pack.NewTest2">
+        <test-method signature="six(java.lang.String)[pri:0, instance:testNg_full_pack.NewTest2@795cd85e]" started-at="2024-02-10T17:44:28 IST" name="six" finished-at="2024-02-10T17:44:29 IST" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jaffers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- six -->
+        <test-method signature="one(java.lang.String)[pri:1, instance:testNg_full_pack.NewTest2@795cd85e]" started-at="2024-02-10T17:44:29 IST" name="one" finished-at="2024-02-10T17:44:29 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jaffer1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- one -->
+        <test-method signature="two(java.lang.String)[pri:2, instance:testNg_full_pack.NewTest2@795cd85e]" started-at="2024-02-10T17:44:29 IST" name="two" finished-at="2024-02-10T17:44:29 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jaffer2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- two -->
+        <test-method signature="three(java.lang.String)[pri:3, instance:testNg_full_pack.NewTest2@795cd85e]" started-at="2024-02-10T17:44:29 IST" name="three" finished-at="2024-02-10T17:44:29 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jaffer3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- three -->
+        <test-method signature="four(java.lang.String)[pri:4, instance:testNg_full_pack.NewTest2@795cd85e]" started-at="2024-02-10T17:44:29 IST" name="four" finished-at="2024-02-10T17:44:29 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jaffer4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- four -->
+        <test-method signature="five(java.lang.String)[pri:5, instance:testNg_full_pack.NewTest2@795cd85e]" started-at="2024-02-10T17:44:29 IST" name="five" finished-at="2024-02-10T17:44:29 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jaffer5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- five -->
+      </class> <!-- testNg_full_pack.NewTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
